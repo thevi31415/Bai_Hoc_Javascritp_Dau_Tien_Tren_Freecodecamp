@@ -1,1 +1,1 @@
-# Bài học Javascript đầu tiên trên Freecodecamp
+# Bài học JavaScript đầu tiên trên Freecodecamp
